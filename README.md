@@ -6,3 +6,5 @@ Kodlama.io da öğrendiğim ve alıştırma olarak yazdığım kodlardır.
 ![diğer günler](https://user-images.githubusercontent.com/71596094/116817645-19a71800-ab70-11eb-8bae-5971919023c4.PNG)
 
 ![1 gün](https://user-images.githubusercontent.com/71596094/116817732-87534400-ab70-11eb-813b-24eec1d62814.PNG)
+
+NOT: 1. ve 2.gün kodları Netbeans ile geri kalan günler ise Eclipse ile yazılmıştır.
